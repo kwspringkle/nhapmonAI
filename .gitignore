@@ -1,1 +1,17 @@
 env/
+
+# Bỏ qua thư mục môi trường ảo
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# File tạm thời
+*.pyc
+__pycache__/
+
+# Dữ liệu lớn
+*.csv
+*.tsv
+*.xlsx
+*.pkl
