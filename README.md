@@ -14,10 +14,10 @@ Trong một đêm giông bão của kì cuối môn Nhập môn AI, ba cô gái 
 
 ## ⚔️ Các nhân vật chính
 
-### 💗 Bubbles – Công chúa Xử Lý Dữ Liệu  
+### 💗 Blossom – Công chúa Xử Lý Dữ Liệu  
 > Xuất thân từ lớp 29, mang trong mình dòng máu của tộc `pyvi`. Nhiệm vụ: loại bỏ những stopwords gây rối và biến văn bản thành ma trận TF-IDF – thứ vũ khí tối thượng để giao tiếp với SVM.
 
-### 💙 Blossom – Nữ Chiến Binh Đánh Giá  
+### 💙 Bubbles – Nữ Chiến Binh Đánh Giá  
 > Hậu duệ lớp 34, người giữ thanh kiếm `classification_report`. Cô thách thức mọi kernel từ `linear` đến `rbf` và đối mặt với quái vật `confusion_matrix` để kiểm tra xem mô hình của họ có thể phân loại thế giới thật hay không.
 
 ### 💚 Buttercup – Kẻ Tối Ưu Bí Ẩn  
